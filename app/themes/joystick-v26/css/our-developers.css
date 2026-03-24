@@ -1,0 +1,876 @@
+#our-developers section {
+    z-index: 12;
+}
+
+#our-developers .title {
+    font-family: brandon_grotesque;
+    font-weight: normal;
+    text-align: center;
+}
+
+#our-developers .title.bold {
+    font-weight: bold;
+    color: #fff;
+}
+
+#our-developers section h4.title {
+    text-align: left;
+    margin: 0;
+}
+
+#our-developers .description {
+    font-family: gilroy;
+    font-weight: normal;
+    color: #D4D4D4;
+    margin: 0;
+}
+
+
+#our-developers .developers-section .description {
+    text-align: justify;
+}
+
+#our-developers .description.quote {
+    color: #fff;
+    font-family: gilroy;
+    font-weight: bold;
+    text-align: left;
+    max-width: 528px;
+}
+
+#our-developers .description.quote .author {
+    color: #f3f3f3;
+    font-family: gilroy;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    max-width: 528px;
+}
+
+#our-developers .description.quote .dash {
+    color: #009877;
+    font-weight: bold;
+}
+
+#our-developers .description .bold {
+    font-weight: bold;
+    color: #fff;
+}
+
+.intro-section {
+    color: #fff;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.intro-section .intro-text {
+    margin: 0 auto 40px;
+    max-width: 890px;
+    position: relative;
+    text-align: center;
+    z-index: 10;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.intro-section .intro-text h1 {
+    font-size: 90px;
+    margin-top: 0;
+}
+
+.intro-section .intro-text h1 .bold {
+    font-weight: bold;
+}
+
+.intro-section .intro-text p {
+    font-size: 20px;
+    font-family: gilroy;
+    font-weight: normal;
+    color: #D4D4D4;
+}
+
+
+/* DEVELOPERS SECTION */
+
+.developers-section {
+    position: relative;
+    background: #000000;
+}
+
+.developers-section .developers-text {
+    margin: 0 auto;
+    max-width: 880px;
+    padding: 120px 0;
+}
+
+.developers-section .developers-text h1 {
+    color: #fff;
+    font-size: 70px;
+}
+
+.developers-section .developers-text p {
+    color: #D4D4D4;
+    font-size: 21px;
+    line-height: 1.6;
+}
+
+.developers-feature-section .columns h4,
+.developers-feature-section .columns p {
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+.developers-feature-section .columns p {
+    color: #D4D4D4;
+}
+
+.developers-section .developers-text .text-image-right,
+.developers-section .developers-text .text-image-left {
+    margin: 100px 0;
+}
+
+.developers-section .developers-text .text-image-right img {
+    float: right;
+}
+
+.developers-section .developers-text .text-image-left img {
+    float: left;
+}
+
+.developers-section .developers-text .text-image-left::after,
+.developers-section .developers-text .developers-text-content::after,
+.developers-section .developers-text .text-image-right::after {
+    clear: both;
+    content: '';
+    display: block;
+    height: 1px;
+    width: 100%;
+}
+
+.developers-section .developers-text .text-image-right .developers-text-content p:first-child,
+.developers-section .developers-text .text-image-left .developers-text-content p:first-child {
+    margin-top: 0;
+}
+
+.developers-section .developers-text .text-image-left .developers-text-content {
+    float: right;
+    max-width: 76%;
+}
+
+.developers-section .developers-text .text-image-right .developers-text-content {
+    float: left;
+    max-width: 78%;
+}
+
+/* DEVELOPERS FEATURES SECTION */
+
+.developers-feature-section {
+    overflow: hidden;
+    position: relative;
+}
+
+.developers-feature-section .title {
+    font-weight: bold;
+}
+
+.developers-feature-section .developers-text {
+    color: #ffffff;
+    margin: 0 auto;
+    max-width: 880px;
+    padding: 120px 0;
+    position: relative;
+    z-index: 11;
+}
+
+.developers-feature-section .developers-text h1 {
+    color: #fff;
+    font-size: 70px;
+    margin: 30px 0;
+    text-align: center;
+}
+
+.developers-feature-section .developers-text .columns h4 {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+.developers-feature-section .developers-text .columns h4::after {
+    background: #009877;
+    content: '';
+    display: block;
+    height: 2px;
+    margin: 20px 0;
+    width: 40px;
+}
+
+.developers-feature-section .developers-text .columns .col-3 {
+    box-sizing: border-box;
+    float: left;
+    font-size: 18px;
+    padding: 0 15px;
+    width: 33.333%;
+}
+
+.developers-feature-section .developers-text .columns::after {
+    clear: both;
+    content: '';
+    display: block;
+    height: 1px;
+    width: 100%;
+}
+
+
+/* DEVELOPERS ONE KIND SECTION */
+
+.developers-one-kind-section {
+    position: relative;
+    padding: 40px 0;
+    background: #0E0E10;
+}
+
+.developers-one-kind-section .developers-one-kind h1 {
+    color: #fff;
+    font-size: 70px;
+    margin: 0 0 100px;
+    text-align: center;
+}
+
+.developers-one-kind-section .developers-one-kind {
+    color: #ffffff;
+    margin: 0 auto;
+    max-width: 880px;
+    padding: 120px 0;
+    position: relative;
+    z-index: 11;
+}
+
+.developers-one-kind h4 {
+    text-align: left !important;
+    font-weight: bold;
+}
+
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content h1,
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content h4 {
+    color: white;
+}
+
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content h4::after {
+    background: #009877;
+    content: '';
+    display: block;
+    height: 2px;
+    margin: 10px 0;
+    width: 40px;
+}
+
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 100px;
+    padding-left: 150px;
+    position: relative;
+}
+
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content {
+    color: #ffffff;
+}
+
+.developers-one-kind-section .developers-one-kind .developers-one-kind-content img {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+/* DEVELOPERS STARTUP SECTION */
+
+.developers-startup-section {
+    overflow: hidden;
+    position: relative;
+}
+
+.developers-startup-section .developers-startup {
+    color: #fff;
+    margin: 0 auto;
+    max-width: 865px;
+    position: relative;
+    z-index: 12;
+}
+
+.developers-startup-section .developers-startup h1 {
+    font-size: 70px;
+    margin: 100px 0 60px 0;
+    text-align: center;
+}
+
+.developers-startup-section .developers-startup p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.code-container {
+    margin-bottom: 100px;
+}
+
+.code-header,
+.code-footer {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.code-header {
+    background: #000000;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.code-header p {
+    background: #202927;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0;
+    padding: 20px 40px 20px;
+}
+
+.code-footer {
+    background: #000000;
+    padding: 20px;
+    text-align: right;
+}
+
+.code-copy {
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 100px;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 35px 14px;
+}
+
+.desktop .code-copy:hover {
+    color: #009877;
+    border: 2px solid #009877;
+    cursor: pointer;
+}
+
+/*
+Name: Duotone Sea
+Author: by Simurai, adapted from DuoTone themes by Simurai for Atom (http://simurai.com/projects/2016/01/01/duotone-themes)
+
+Conversion: Bram de Haan (http://atelierbram.github.io/Base2Tone-prism/output/prism/prism-base2tone-sea-dark.css)
+Generated with Base16 Builder (https://github.com/base16-builder/base16-builder)
+*/
+
+code[class*="language-"],
+pre[class*="language-"] {
+    height: 490px;
+    background: #00231B;
+    color: #71827F;
+    direction: ltr;
+    font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
+    "Courier New", Courier, monospace;
+    font-size: 14px;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    line-height: 1.375;
+    position: relative;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    text-align: left;
+    white-space: pre;
+    word-break: normal;
+    word-spacing: normal;
+}
+
+pre[class*="language-"]::-moz-selection,
+pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection,
+code[class*="language-"] ::-moz-selection {
+    background: #00231B;
+    text-shadow: none;
+}
+
+pre[class*="language-"]::selection,
+pre[class*="language-"] ::selection,
+code[class*="language-"]::selection,
+code[class*="language-"] ::selection {
+    background: #00231B;
+    text-shadow: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+    margin: 0;
+    overflow: auto;
+    padding: 1em;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+    border-radius: 0.3em;
+    padding: 0.1em;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+    color: #4a5f78;
+}
+
+.token.punctuation {
+    color: #4a5f78;
+}
+
+.token.namespace {
+    opacity: 0.7;
+}
+
+.token.tag,
+.token.operator,
+.token.number {
+    color: #009877;
+}
+
+.token.property,
+.token.function {
+    color: #57718e;
+}
+
+.token.tag-id,
+.token.selector,
+.token.atrule-id {
+    color: #ebf4ff;
+}
+
+code.language-javascript,
+.token.attr-name {
+    color: #7eb6f6;
+}
+
+code.language-css,
+code.language-scss,
+.token.boolean,
+.token.string,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.language-scss .token.string,
+.style .token.string,
+.token.attr-value,
+.token.keyword,
+.token.control,
+.token.directive,
+.token.unit,
+.token.statement,
+.token.regex,
+.token.atrule {
+    color: #009877;
+}
+
+.token.placeholder,
+.token.variable {
+    color: #009877;
+}
+
+.token.deleted {
+    text-decoration: line-through;
+}
+
+.token.inserted {
+    border-bottom: 1px dotted #ebf4ff;
+    text-decoration: none;
+}
+
+.token.italic {
+    font-style: italic;
+}
+
+.token.important,
+.token.bold {
+    font-weight: bold;
+}
+
+.token.important {
+    color: #7eb6f6;
+}
+
+.token.entity {
+    cursor: help;
+}
+
+pre > code.highlight {
+    outline: 0.4em solid #34659d;
+    outline-offset: 0.4em;
+}
+
+/* overrides color-values for the Line Numbers plugin
+ * http://prismjs.com/plugins/line-numbers/
+ */
+.line-numbers .line-numbers-rows {
+    border-right: 1px solid #999;
+    border-right-color: rgba(0, 0, 0, 0.13);
+    font-size: 100%;
+    left: -3em;
+    letter-spacing: -1px;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 2em;
+}
+
+.line-numbers-rows > span:before {
+    color: #2c3847;
+}
+
+/* overrides color-values for the Line Highlight plugin
+* http://prismjs.com/plugins/line-highlight/
+*/
+.line-highlight {
+    background: rgba(10, 163, 112, 0.2);
+    background: -webkit-linear-gradient(left,
+    rgba(10, 163, 112, 0.2) 70%,
+    rgba(10, 163, 112, 0));
+    background: linear-gradient(to right,
+    rgba(10, 163, 112, 0.2) 70%,
+    rgba(10, 163, 112, 0));
+}
+
+
+@media all and (max-width: 1280px) {
+    #our-developers section h1.title {
+        font-size: 70px;
+    }
+
+    #our-developers section h4.description {
+        font-size: 18px;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    #our-developers section h1.title {
+        font-size: 52px;
+    }
+
+    #our-developers section .description,
+    #our-developers section h4.title {
+        font-size: 16px;
+    }
+
+    #our-developers section h4.title {
+        text-align: left;
+    }
+
+    #our-developers #main {
+        min-height: 660px;
+    }
+
+    .mobile #our-developers .intro-text {
+        margin-top: 0;
+    }
+
+    .list-title {
+        font-size: 18px;
+    }
+
+    .list-description {
+        font-size: 16px;
+        color:#D4D4D4;
+    }
+
+    .intro-section .intro-text {
+        margin-top: 150px;
+    }
+
+    #our-developers .text-image-left,
+    #our-developers .text-image-right {
+        width: 80%;
+        margin: 100px auto 50px auto;
+    }
+
+    #our-developers .text-image-left img,
+    #our-developers .text-image-right img {
+        width: 90px;
+    }
+
+    .developers-one-kind-section .developers-one-kind .developers-one-kind-content {
+        width: 70%;
+        padding-left: 110px;
+        margin: 60px auto;
+    }
+
+    .developers-one-kind-content img {
+        width: 90px;
+    }
+
+}
+
+@media all and (max-width: 700px) {
+    #our-developers section h1.title {
+        font-size: 38px;
+    }
+
+    #our-developers section .description,
+    #our-developers section .title {
+        font-size: 16px;
+    }
+
+    .developers-feature-section .columns p {
+        font-size: 14px;
+    }
+
+    .list-title {
+        font-size: 16px;
+    }
+
+    .developers-section .developers-text .text-image-right .developers-text-content {
+        max-width: 76%;
+    }
+
+    #our-developers .text-image-left img,
+    #our-developers .text-image-right img {
+        width: 70px;
+    }
+
+
+    pre[class*="language-"] {
+        width: 550px;
+        height: 490px;
+        margin: 0 auto;
+    }
+
+    .developers-startup-section .developers-startup p {
+        font-size: 16px;
+    }
+
+    .code-header,
+    .code-footer {
+        margin: 0 auto;
+    }
+
+    .code-header {
+        width: 581px;
+        margin-top: 70px;
+    }
+
+    .code-footer {
+        width: 571px;
+        padding: 5px;
+    }
+
+    .code-copy {
+        font-size: 10px;
+        padding: 5px 16px 7px;
+    }
+}
+
+@media all and (max-width: 600px) {
+
+    .intro-section {
+        min-height: 600px;
+    }
+
+    .intro-text br {
+        display: none;
+    }
+
+    .intro-section .intro-text {
+        margin-top: 40px;
+    }
+
+    .developers-feature-section .developers-text {
+        padding: 30px 0;
+    }
+
+    #our-developers section h1.title {
+        font-size: 35px;
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #our-developers section .title {
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    #our-developers section .description {
+        padding: 40px;
+    }
+
+
+    #our-developers .text-image-left,
+    #our-developers .text-image-right {
+        width: 92%;
+        margin: 40px auto 50px auto;
+    }
+
+
+    .developers-section .developers-text {
+        margin: 0 auto;
+        padding: 70px 0;
+    }
+
+    #our-developers section h1.title {
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .mobile.landscape  #our-developers section h1.title {
+        margin-top: 120px;
+    }
+
+    .developers-section .developers-text .text-image-left .developers-text-content,
+    .developers-section .developers-text .text-image-right .developers-text-content {
+        width: 90%;
+        float: none;
+        max-width: 330px;
+        padding: 15px;
+        left: auto;
+        right: auto;
+        margin: auto;
+    }
+
+    #our-developers .developers-section .description {
+        padding: 0;
+    }
+
+    #our-developers .text-image-left img,
+    #our-developers .text-image-right img {
+        width: 70px;
+        margin: 20px calc(50% - 35px);
+    }
+
+    #our-developers section h4.title {
+        text-align: center;
+    }
+
+
+    /* ONE KIND SECTION*/
+    .developers-one-kind-section .developers-one-kind {
+        padding: 10px 0;
+    }
+
+    .developers-feature-section .developers-text .columns h4::after {
+        margin: 10px auto;
+    }
+
+    .developers-feature-section .developers-text .columns .col-3 {
+        text-align: center;
+        width: 100%;
+        padding: 0 40px;
+    }
+
+    .developers-one-kind-section {
+        padding: 10px;
+    }
+
+    .developers-one-kind-section .developers-one-kind .developers-one-kind-content {
+        width: 73%;
+        padding-left: 0;
+        margin-bottom: 50px;
+    }
+
+    .developers-one-kind-content img {
+        position: relative !important;
+        width: 80px;
+        margin: 0 calc(50% - 40px) 20px calc(50% - 40px) ;
+    }
+
+    #our-developers section.developers-one-kind-section. developers-one-kind-content .title {
+        text-align: center !important;
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    .developers-one-kind-section .developers-one-kind .developers-one-kind-content h4::after {
+        margin: 10px auto;
+    }
+
+
+    .developers-one-kind-section .developers-one-kind h1 {
+        margin-bottom: 50px;
+    }
+
+    .developers-one-kind-section .developers-one-kind h4,
+    .developers-one-kind-section .developers-one-kind .description{
+        text-align: center !important;
+    }
+
+    .developers-one-kind-section .developers-one-kind .description {
+        font-size: 14px !important;
+        padding: 0 !important;
+    }
+
+
+
+    pre[class*="language-"] {
+        width: 350px;
+        height: 330px;
+    }
+
+    code[class*="language-"],
+    pre[class*="language-"] {
+        font-size: 10px;
+    }
+
+    .developers-startup-section .developers-startup p {
+        font-size: 14px;
+    }
+
+    .code-header {
+        width: 370px;
+        height: 38px;
+        margin-top: 70px;
+    }
+
+    .code-header p {
+        padding: 10px 20px 10px;
+    }
+
+    .code-footer {
+        width: 360px;
+    }
+}
+
+@media all and (max-width: 370px) {
+
+    .code-footer {
+        width: 100%;
+    }
+
+    .code-copy {
+        margin-right: 20px;
+    }
+
+}
+/*
+     FILE ARCHIVED ON 23:06:11 Dec 10, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:04:50 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.774
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.068
+  esindex: 0.01
+  cdx.remote: 37.01
+  LoadShardBlock: 299.916 (3)
+  PetaboxLoader3.datanode: 242.925 (4)
+  PetaboxLoader3.resolve: 62.003
+  load_resource: 20.287
+*/

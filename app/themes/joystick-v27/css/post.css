@@ -1,0 +1,295 @@
+body {
+    background: white;
+}
+
+.post-container {
+    position: relative;
+    max-width: 768px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 30px 0 80px 0;
+    margin: 0 auto;
+    color: black;
+}
+
+.post-container article {
+    margin: 100px 0;
+}
+
+.post-container .title {
+    font-size: 34px;
+    font-family: gilroy;
+    font-weight: bold;
+    margin: 0;
+}
+
+.post-container .author,
+.post-container .content,
+.post-container .date,
+.post-container .dot {
+    font-size: 20px;
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+.post-container .comment {
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+/*.post-container .author,*/
+/*.post-container .date {*/
+/*    margin-top: 5px;*/
+/*}*/
+
+.post-container .divider,
+.post-container .dot {
+    color: #009877;
+}
+
+.post-container .dot {
+    position: relative;
+    display: inline-block;
+    float: left;
+    font-size: 17px;
+}
+
+.post-container .author,
+.post-container .date,
+.post-container .divider {
+    position: relative;
+    float: left;
+}
+
+.post-container .thumbnail img {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.post-container .content {
+    width: 100%;
+}
+
+.post-container .content img {
+    float: left;
+    width: 100% !important;
+}
+
+/*.post-container .content p {*/
+/*    padding: 0 50px;*/
+/*}*/
+
+.post-container a:visited,
+.post-container a:link,
+.post-container a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.post-container a:hover {
+    color: #009877;
+}
+
+/* COMMENTS */
+.post-container .comment {
+    width: 100%;
+    margin: 30px 0;
+}
+
+.post-container .comment-author .fn,
+.post-container .comment-author img,
+.post-container .comment-meta a {
+    position: relative;
+    float: left;
+}
+
+.post-container .comment-author img {
+    width: 34px;
+    height: 34px;
+    margin-right: 10px;
+
+}
+
+.post-container .comment-author .fn {
+    font-style: normal;
+    font-size: 24px;
+}
+
+.post-container .comment-author .says {
+    display: none;
+}
+
+.post-container .comment-meta a {
+    font-size: 14px;
+    line-height: 36px;
+    margin: 0 10px;
+    font-family: brandon_grotesque;
+    font-weight: normal;
+}
+
+.post-container .comment-body {
+    margin: 20px 0;
+}
+
+.post-container .comment-body p {
+    margin: 20px 0;
+}
+
+.post-container .comment .reply {
+    height: 35px;
+    border-bottom: 1px #e8e8e8 solid;
+}
+
+.post-container .comment .reply a {
+    float: right;
+}
+
+/*.post-container .comment-meta {*/
+/*    display: grid;*/
+/*}*/
+
+.post-container .comments {
+    margin: 80px 0;
+}
+
+.post-container .comment-respond textarea,
+.post-container .comment-respond input[type='text'] {
+    width: 100%;
+    border: 1px #ccc solid;
+    border-radius: 4px;
+}
+
+.post-container .comment-respond input[type='text'] {
+    height: 34px;
+}
+
+.post-container .comment-respond label {
+    color: #565656;
+}
+
+.post-container .comment-respond input[type='submit'] {
+    border-radius: 0;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    background-color: #000;
+    text-transform: uppercase;
+}
+
+.post-container .comment-respond input[type='submit']:hover {
+    background-color: #009877;
+}
+
+.post-container footer {
+    display: none;
+}
+
+.post-container .nav-previous,
+.post-container .nav-next {
+    color: #565656;
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+.post-container .nav-previous {
+    float: right;
+}
+
+.post-container ol {
+    list-style-type: none;
+}
+
+/* WORDPRESS GENERATED CLASSES*/
+
+.post-container .comment-list,
+.post-container .comment-list .comment,
+.post-container .comment-list .comment-author,
+.post-container .comment-list .fn,
+.post-container .comment-list .comment-meta,
+.post-container .comment-body p,
+.post-container .comment-list .reply {
+    position: relative;
+    float: left;
+}
+
+.post-container .comment-list .reply,
+.post-container .comment-body p {
+    width: 100%;
+}
+
+.post-container .comment-list .children {
+    position: relative;
+    width: calc(100% - 40px);
+    float: left;
+}
+
+/* /WORDPRESS GENERATED CLASSES*/
+
+
+@media all and (max-width: 1400px) {
+
+    .post-container {
+        width: calc(100% - 80px);
+        padding: 30px 40px;
+    }
+
+    .post-container .thumbnail img {
+        width: calc(100% - 20px);
+    }
+
+    .post-container .title {
+        font-size: 28px;
+    }
+
+    .post-container .author,
+    .post-container .content,
+    .post-container .date {
+        font-size: 18px;
+    }
+
+
+}
+
+@media all and (max-width: 600px) {
+
+    .post-container {
+        width: calc(100% - 30px);
+        padding: 30px 15px;
+    }
+
+    .post-container .title {
+        font-size: 24px;
+    }
+
+    .post-container .author,
+    .post-container .content,
+    .post-container .date {
+        font-size: 14px;
+    }
+
+    .post-container article {
+        margin: 50px 0;
+    }
+}
+/*
+     FILE ARCHIVED ON 13:54:38 Oct 23, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:00:39 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.649
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.054
+  esindex: 0.011
+  cdx.remote: 7.631
+  LoadShardBlock: 886.063 (3)
+  PetaboxLoader3.datanode: 937.315 (4)
+  PetaboxLoader3.resolve: 65.392 (2)
+  load_resource: 134.605
+*/

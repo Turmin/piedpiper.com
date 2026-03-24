@@ -1,0 +1,55 @@
+.comment-respond,
+.si_captcha_small,
+#si_captcha_code,
+.form-submit,
+.share-wrapper.blog-roll-footer.single {
+    display: none !important;
+}
+
+.comment .avatar,
+.comment-author .avatar,
+.comment-author img {
+    display: none !important;
+}
+
+.comment:empty,
+#comments:empty,
+.comments:empty {
+    display: none !important;
+}
+
+body.page-template-internet-heritage .hidden,
+body.page-template-internet-heritage .slide-up-animation,
+body.page-template-internet-heritage .slide-up-animation.hidden {
+    visibility: visible !important;
+}
+
+body.page-template-internet-heritage .hidden {
+    opacity: 0 !important;
+}
+
+body.page-template-internet-heritage .slide-up-animation.hidden,
+body.page-template-internet-heritage .slide-up-animation {
+    transform: translate3d(0, 28px, 0);
+}
+
+body.page-template-internet-heritage .col-3.hidden,
+body.page-template-internet-heritage .description.last-desc.hidden {
+    transform: translate3d(0, 18px, 0);
+}
+
+body.page-template-internet-heritage .archive-reveal-ready {
+    transition: opacity 0.7s ease, transform 0.7s ease;
+    will-change: opacity, transform;
+}
+
+body.page-template-internet-heritage .archive-reveal-ready.archive-visible {
+    opacity: 1 !important;
+    transform: translate3d(0, 0, 0);
+}
+
+body.page-template-internet-heritage .archive-reveal-ready.archive-visible:nth-child(2),
+body.page-template-internet-heritage .archive-reveal-ready.archive-visible:nth-child(3),
+body.page-template-internet-heritage .archive-reveal-ready.archive-visible:nth-child(4) {
+    transition-delay: 0.08s;
+}

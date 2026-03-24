@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/brandon_bld-webfont.woff2') format('woff2'),
+    url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/brandon_bld-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/brandon_reg-webfont.woff2') format('woff2'),
+    url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/brandon_reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/gilroy-bold-webfont.woff2') format('woff2'),
+    url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/gilroy-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/gilroy-regular-webfont.woff2') format('woff2'),
+    url('/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/fonts/gilroy-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+     FILE ARCHIVED ON 23:06:11 Dec 10, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:04:46 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.88
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.059
+  esindex: 0.011
+  cdx.remote: 10.175
+  LoadShardBlock: 60.247 (3)
+  PetaboxLoader3.datanode: 70.71 (4)
+  load_resource: 134.909
+  PetaboxLoader3.resolve: 86.456
+*/

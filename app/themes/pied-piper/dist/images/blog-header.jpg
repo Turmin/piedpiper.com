@@ -1,0 +1,574 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.piedpiper.com/app/themes/pied-piper/dist/images/blog-header.jpg","20180714024109","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1531536069");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+  <meta property="og:site_name" content="Pied Piper">
+  <meta property="og:title" content="Home">
+  <meta property="og:url" content="https://web.archive.org/web/20180714024109/http://www.piedpiper.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/favicon.png">
+  <meta itemprop="name" content="Home">
+  <meta itemprop="url" content="https://web.archive.org/web/20180714024109/http://www.piedpiper.com/">
+  <meta itemprop="image" content="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/favicon.png">
+  <meta name="google-site-verification" content="hFfbF7fTD6Gasg9mXodQGCack0mFc_Yz_rzgCWfl-Ww">
+  <meta name="twitter:title" content="Home">
+  <meta name="twitter:image" content="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/favicon.png">
+  <meta name="twitter:url" content="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/">
+  <meta name="twitter:card" content="summary">
+  <meta name="description" content="Pied Piper — A Middle-Out Compression Solution Making Data Storage Problems Smaller">
+  <link rel="stylesheet" href="https://web.archive.org/web/20180714024109cs_/https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://web.archive.org/web/20180714024109cs_/https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700" rel="stylesheet" type="text/css">
+  <link href="https://web.archive.org/web/20180714024109cs_/https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20180714024109cs_/https://cloud.typography.com/6386072/7829752/css/fonts.css"/>
+
+  <script type="text/javascript">
+    var id = '31fe2e2a-c0e4-4a66-967e-c1f6ee2ae676'
+    var s = document.createElement('script')
+    s.src = document.location.host === 'www.piedpiper.com' ?
+      'https://web.archive.org/web/20180714024109/https://cdn.cookielaw.org/consent/' + id + '.js' :
+      'https://web.archive.org/web/20180714024109/https://optanon.blob.core.windows.net/consent/' + id + '-test.js'
+    document.head.insertBefore(s, document.head.firstChild)
+  </script>
+  <script type="text/javascript">
+    function OptanonWrapper() {
+      Optanon.InsertScript("//web.archive.org/web/20180714024109/http://www.hbo.com/html/js/s_code_onsite.js", "head", executeInlineScript("s-code-inline"), null, 4);
+      function executeInlineScript(id) {
+        return function () {
+          var script = document.getElementById(id);
+          var parent = script.parentElement;
+          parent.removeChild(script);
+          script.type = "text/javascript";
+          parent.appendChild(script);
+          window.haveOneTrustCookieConsent = true;
+          var comments = document.getElementById("commentform");
+          if (comments) {
+            comments.style.display = "block";
+          }
+        };
+      }
+    }
+  </script>
+  <script type="text/plain" class="optanon-category-4" src="https://web.archive.org/web/20180714024109js_/http://www.hbo.com/html/js/offsite-tracklinks.js"></script>
+  <title>Page not found &#8211; Pied Piper</title>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/web.archive.org\/web\/20180714024109\/https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/web.archive.org\/web\/20180714024109\/http:\/\/www.piedpiper.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="sage/css-css" href="https://web.archive.org/web/20180714024109cs_/http://www.piedpiper.com/app/themes/pied-piper/dist/styles/main.css" type="text/css" media="all"/>
+<script type="text/javascript" src="https://web.archive.org/web/20180714024109js_/http://www.piedpiper.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180714024109js_/http://www.piedpiper.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script>
+<link rel="https://api.w.org/" href="http://www.piedpiper.com/wp-json/"/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.piedpiper.com/wp/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.piedpiper.com/wp/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 4.5.2"/>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<script type="text/javascript" src="https://web.archive.org/web/20180714024109js_/http://www.piedpiper.com/app/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1531536070"></script>
+<!-- begin SI CAPTCHA Anti-Spam - login/register form style -->
+<style type="text/css">
+.si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
+.si_captcha_large { width:250px; height:60px; padding-top:10px; padding-bottom:10px; }
+img#si_image_com { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_reg { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_log { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_side_login { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_checkout { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_jetpack { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_bbpress_topic { border-style:none; margin:0; padding-right:5px; float:left; }
+.si_captcha_refresh { border-style:none; margin:0; vertical-align:bottom; }
+div#si_captcha_input { display:block; padding-top:15px; padding-bottom:5px; }
+label#si_captcha_code_label { margin:0; }
+input#si_captcha_code_input { width:65px; }
+p#si_captcha_code { clear: left; padding-top:10px; }
+.si-captcha-jetpack-error { color:#DC3232; }
+</style>
+<!-- end SI CAPTCHA Anti-Spam - login/register form style -->
+<link rel="icon" href="https://web.archive.org/web/20180714024109im_/http://s3.amazonaws.com/assets.piedpiper.pro/app/uploads/2018/03/pp_favicon_72.ico.png" sizes="32x32"/>
+<link rel="icon" href="https://web.archive.org/web/20180714024109im_/http://s3.amazonaws.com/assets.piedpiper.pro/app/uploads/2018/03/pp_favicon_72.ico.png" sizes="192x192"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20180714024109im_/http://s3.amazonaws.com/assets.piedpiper.pro/app/uploads/2018/03/pp_favicon_72.ico.png"/>
+<meta name="msapplication-TileImage" content="http://s3.amazonaws.com/assets.piedpiper.pro/app/uploads/2018/03/pp_favicon_72.ico.png"/>
+  <script type="text/plain" class="optanon-category-4">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '1786589854']);
+    _elqQ.push(['elqTrackPageView']);
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//web.archive.org/web/20180714024109/http://img04.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load);
+    })();
+</script>
+<!-- Google Tag Manager -->
+<script type="text/plain" class="optanon-category-4">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://web.archive.org/web/20180714024109/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56KX9QL');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+  <body class="error404">
+
+    <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <!-- <div class="notif"><p><a href="http://www.piedpiper.com/app/themes/pied-piper/dist/images/Cryptocurrency_Presentation.pdf" target="_blank"><strong>Monica Hall joins Pied Piper as CFO</strong></a></p><div class="top-close" style="background-image:url(http://www.piedpiper.com/app/themes/pied-piper/dist/images/top-close.svg )"></div></div> -->
+
+  <div class="pp-coin-banner">
+    <div class="inner">
+      <div class="content">
+        <div class="ppc-logo-wrapper ppc-item">
+          <img class="logo" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/ppc-logo.svg">
+          <div class="wrapper">
+            <p class="ppc-ppc"><strong><i>PPC</i></strong></p>
+            <p class="ppc-piedpipercoin">PiedPiperCoin</p>
+          </div>
+        </div>
+        <div>
+          <span class="separator"></span>
+        </div>
+        <div>
+          <p class="ppc-usd"><strong>$2.51 USD</strong></p>
+        </div>
+        <div class="wrapper ppc-market">
+          <div>
+            <p class="ppc-market-cap"><span class="mobile-hidden">Market</span> Cap: $3,388,500</p>
+          </div>
+          <div>
+            <p class="ppc-volume">Volume: $1,174,680</p>
+          </div>
+        </div>
+        <div>
+          <a class="learn-more" href="/web/20180714024109/http://www.piedpiper.com/#ppc" onclick="window.smoothScroll('ppc')">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="wrap container" role="document">
+      <div class="content row">
+        <main class="main">
+          
+<header class="banner">
+  <div class="video-wrapper" style="background-image:url(https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_1.jpg )">
+    <video class="bg-video" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/Video_1.mp4" autoplay loop muted></video>
+  </div>
+
+  <div class="title">
+    <h1>PiperNet Is Here</h1>
+    <p class="sub">Follow us into the future.</p>
+  </div>
+
+  <div class="logo-wrapper">
+    <a href="/web/20180714024109/http://www.piedpiper.com/"><img src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/logo.svg"></a>
+  </div>
+
+  <div class="home-header-container">
+    <div class="nav-bar-links">
+      <a class="nav-bar-link" href="/web/20180714024109/http://www.piedpiper.com/#problem" onclick="window.smoothScroll('problem')">the problem</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#piedpipercoin" onclick="window.smoothScroll('piedpipercoin')">PiedPiperCoin</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#technology" onclick="window.smoothScroll('technology')">the tech</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#developers" onclick="window.smoothScroll('developers')">developers</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#decentralization" onclick="window.smoothScroll('decentralization')">decentralization</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#team" onclick="window.smoothScroll('team')">the team</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link" href="/web/20180714024109/http://www.piedpiper.com/blog">blog</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#company" onclick="window.smoothScroll('company')">company history</a>
+      <span class="divider">|</span>
+      <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#faq" onclick="window.smoothScroll('faq')">faq</a>
+    </div>
+  </div>
+
+</header>
+
+<div class="mobile-nav-wrapper">
+  <div class="links-wrapper">
+    <!-- <div class="inline"> -->
+      <div class="nav-bar-links">
+        <a class="nav-bar-link" href="/web/20180714024109/http://www.piedpiper.com/#problem" onclick="window.removeNavModal();window.smoothScroll('problem')">the problem</a>
+        <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#piedpipercoin" onclick="window.removeNavModal();window.smoothScroll('piedpipercoin')">PiedPiperCoin</a>
+        <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#technology" onclick="window.removeNavModal();window.smoothScroll('technology')">the tech</a>
+        <a class="nav-bar-link tech-anchor" href="/web/20180714024109/http://www.piedpiper.com/#developers" onclick="window.removeNavModal();window.smoothScroll('developers')">developers</a>
+        <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#decentralization" onclick="window.removeNavModal();window.smoothScroll('decentralization')">decentralization</a>
+        <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#team" onclick="window.removeNavModal();window.smoothScroll('team')">the team</a>
+        <a class="nav-bar-link" href="/web/20180714024109/http://www.piedpiper.com/blog">blog</a>
+        <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#company" onclick="window.removeNavModal();window.smoothScroll('company')">company history</a>
+        <a class="nav-bar-link who-we-are-anchor" href="/web/20180714024109/http://www.piedpiper.com/#faq" onclick="window.removeNavModal();window.smoothScroll('faq')">faq</a>
+      <!-- </div> -->
+    </div>
+  </div>
+  <div class="mobile-nav-button">
+    <div class="wrapper">
+      <div class="line top"></div>
+      <div class="line mid"></div>
+      <div class="line bot"></div>
+    </div>
+  </div>
+</div>
+<section>
+  <div class="error-404">
+    <div class="inner">
+      <div class="content">
+
+<div class="alert alert-warning">
+  Sorry, but the page you were trying to view does not exist.</div>
+
+<form role="search" method="get" class="search-form" action="https://web.archive.org/web/20180714024109/http://www.piedpiper.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s"/>
+				</label>
+				<input type="submit" class="search-submit" value="Search"/>
+			</form>
+      </div>
+    </div>
+  </div>
+</section>        </main><!-- /.main -->
+              </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <footer class="content-info">
+  <div class="pp-footer">
+    <p class="social-icons">
+      <a target="_blank" href="https://web.archive.org/web/20180714024109/http://twitter.com/siliconHBO">
+        <span class="icon-wrapper twitter">
+          <i class="fa fa-twitter footer-icon"></i>
+        </span>
+      </a>
+
+      <a target="_blank" href="https://web.archive.org/web/20180714024109/https://www.facebook.com/SiliconHBO">
+        <span class="icon-wrapper facebook">
+          <i class="fa fa-facebook footer-icon"></i>
+        </span>
+      </a>
+
+      <a target="_blank" href="https://web.archive.org/web/20180714024109/https://www.instagram.com/siliconhbo/">
+        <span class="icon-wrapper instagram">
+          <i class="fa fa-instagram footer-icon" aria-hidden="true"></i>
+        </span>
+      </a>
+    </p>
+    <p class="footer-text">
+      The old Pied Piper “flute player” logo was referencing the fairy-tale character and in no way was meant to suggest a sexual act involving either the mouth or ear of the figure depicted. Apologies to any who were offended, and the logo has been changed to our current hat design by Mary Shibley that's clean, elegant and not without some danger.
+    </p>
+    <p class="copywrite footer-text">
+      ©2018 Home Box Office, Inc. All Rights Reserved. This website may contain mature content. <br> <a href="https://web.archive.org/web/20180714024109/http://www.hbo.com/html/privacy-policy/" target="_blank">Privacy</a> | <a href="https://web.archive.org/web/20180714024109/http://www.hbo.com/html/terms-of-use/index.html" target="_blank">Terms</a> | <a class="optanon-toggle-display" style="cursor:pointer">Cookie Settings</a>
+    </p>
+  </div>
+
+  <script type="text/plain" id="s-code-inline">
+  <!--
+  var page = window.location.hash;
+  var pagename;
+  if (page === "#whoweare") {
+    pagename = "who we are";
+  } else if (page === "#technology") {
+    pagename = "technology";
+  } else if (window.location.pathname === "/blog/") {
+    pagename = "blog";
+  } else {
+    pagename = ""
+  }
+
+  var check = false;
+  (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
+  if (check) {
+    check = "yes"
+  } else {
+    check = "no"
+  }
+
+
+
+  var platform;
+  if (check === "yes") {
+    if (/iPhone/.test(navigator.userAgent)) {
+      platform = "iphone";
+    } else if (/iPad/.test(navigator.userAgent)) {
+      platform = "ipad";
+    } else if (/Android/.test(navigator.userAgent)) {
+      platform = "android"
+    } else if (/Silk/.test(navigator.userAgent)) {
+      platform = "kindle"
+    } else {
+      platform = "";
+    }
+  } else {
+    platform = "";
+  }
+
+
+  var tracking_vars = "events,eVar1,hier1,eVar10,prop10,eVar30,prop30,eVar42,prop42";
+  s.linkInternalFilters = "javascript:,hbo.com,piedpiper.com,stg.piedpiper.com,localhost:3000"
+  s.pageName="series: silicon-valley: inside: pied piper " + pagename;
+  s.prop10="Silicon Valley"
+  s.eVar10="Silicon Valley"
+  s.prop30=check
+  s.eVar30=check
+  s.prop42=platform
+  s.eVar42=platform
+  s.events='event1';
+  s.eVar1=s.pageName;
+  s.hier1=s.pageName;
+  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+  var s_code=s.t();if(s_code)document.write(s_code);
+
+  window.linkTracker = this;
+  var s=s_gi(s_account);
+
+  s.linkTrackVars='events,eVar10,prop10,eVar30,prop30,eVar33,prop33,eVar34,prop34,eVar42,prop42';
+
+  s.prop10="Silicon Valley"
+  s.eVar10="Silicon Valley"
+  s.prop30=check
+  s.eVar30=check
+  s.prop42=platform
+  s.eVar42=platform
+  s.prop33=""
+  s.eVar33=""
+  s.prop34=""
+  s.eVar34=""
+  </script>
+
+
+</footer>
+
+<div id="decentralization-slideshow" problem="1">
+  <div class="close-icon">
+    <img src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/close-icon.png" alt="" class="close-icon-img">
+  </div>
+
+  <div class="slides-wrapper problem1">
+    <h5 class="main-title"><strong>Problem 1:</strong></h5>
+    <div class="slides">
+
+      <div class="slide active">
+        <div class="slide-content">
+          <p class="slide-title title">Single Points of Failure</p>
+          <div class="slide-content-inside">
+            <p class="slide-body-text"><span>Libraries</span> are vulnerable to losing their collection because all of their books are contained at a single location. Say, for instance, that there was a fire, or a flood, or a vandal defaced John James Audubon’s masterpiece Birds of America by giving all the Warblers human genitalia. Even worse, if the vandal recruited bird haters from other neighborhoods and got ahold of all the copies of the book in existence, it could be lost crude doodles forever. It would be a tragedy on par with the destruction of the Library of Alexandria.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Problem</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">
+            <p class="slide-body-text flex-item"><img class="slide-body-image flex-item visible-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">Because Birds of America is centralized in one public location, it’s susceptible to permanent deletion. The same goes for content on the Internet — storing all your family photos on a single account in a cloud service? They could all be wiped away if someone hacked your account or corrupted the host servers.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Solution</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">
+            <div class="slide-body-text-container flex-item">
+              <p class="slide-body-text"><img class="slide-body-image flex-item visible-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">Our solution: In our decentralized library, we would duplicate and distribute multiple copies of Birds of America to your neighbors — if you need a copy, you would just go to your neighbor’s house. As our Pipernet town of mobile devices grows, so do the number of neighbors who might have a copy of your book. And the more potential copies there are available, the more secure the book is.</p>
+              <p class="slide-body-text">That’s what our new internet will allow you to do too: spread your personal files on devices across the world, so they’re completely safe from bad actors manipulating or deleting them.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content">
+          <p class="slide-title">Takeaways</p>
+          <div class="slide-content-inside">
+            <div class="slide-body-list">
+              <p class="slide-body-list-item">All copies of your files in a well-known, hackable location = <strong>RISKY!</strong></p>
+              <p class="slide-body-list-item">Files copied and distributed to multiple locations = <strong>SAFE!</strong></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>  <!-- end of slides -->
+
+  </div> <!-- end problem1 -->
+
+
+
+  <div class="slides-wrapper problem2">
+    <h5 class="main-title"><strong>Problem 2:</strong></h5>
+    <div class="slides">
+
+      <div class="slide active">
+        <div class="slide-content">
+          <p class="slide-title">No Privacy</p>
+          <div class="slide-content-inside">
+            <p class="slide-body-text"><span>In</span> order to check out books, you must have a library card — an ID that links back to your real world identity. That library card reveals all the books you’ve ever checked out, where you returned them, and whether they were returned on time.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Problem</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">
+            <p class="slide-body-text flex-item"><img class="slide-body-image flex-item visible-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">The tech titans collect data profiles on us too, and theirs are far more comprehensive. They amass thousands of personal data points by tracking our activities in both the online and physical worlds.</p>
+            <p class="slide-body-text flex-item">Users don’t own or control their own data, so it can be used against them. Take, for instance, Richard’s lawyer Pete Monahan, who had his probation revoked when the state retrieved his library records. Which was… probably a good idea. But for this metaphor’s purposes: bad that they can access that information! </p>
+            <p class="slide-body-text flex-item">On the web, our data profile is far more detailed, the laws around privacy even looser, and more freedoms are at stake. For example, what if Hooli sold your search data to an insurance company who then denied you coverage because you’ve HooliSearch-ed “kindest Palo Alto based Cardiologist” a few too many times?</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Solution</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">
+            <div class="slide-body-text-container flex-item">
+              <p class="slide-body-text"><img class="slide-body-image flex-item visible-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">Replace library cards with anonymous identification cards which are impossible to connect to your real world identity. Instead of using a library card (linked to your name, address, etc.) to check out books, you would swipe a nondescript card (containing no personal details). Your activity would be tracked to keep the system stable, but your identity would not be siphoned and sold. I, for example, would no longer check out books as "Donald Dunn," but rather the <i>nom de guerre</i> "h3w0vbk37vpm."</p>
+              <p class="slide-body-text">That’s what our new internet will allow you to do too: use its apps and services without compromising your privacy.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content">
+          <p class="slide-title">Takeaways</p>
+          <div class="slide-content-inside">
+            <div class="slide-body-list">
+              <p class="slide-body-list-item">Trading your identity and data for online services = <strong>RISKY!</strong></p>
+              <p class="slide-body-list-item">Using services anonymously so nobody can target you = <strong>SAFE!</strong></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>  <!-- end of slides -->
+
+  </div> <!-- end problem2 -->
+
+
+
+  <div class="slides-wrapper problem3">
+    <h5 class="main-title"><strong>Problem 3:</strong></h5>
+    <div class="slides">
+
+      <div class="slide active">
+        <div class="slide-content">
+          <p class="slide-title">Censorship and Manipulation</p>
+          <div class="slide-content-inside">
+            <p class="slide-body-text"><span>Because</span> a town’s library is run by a small group of administrators, they could theoretically decide what books are available to its people. They could even decide to ban Birds of America, depriving young birders of Audubon’s elegant illustrations, pored over page by page under a government-issued blanket after lights out, giving you hope that even a slender-framed, shivering boy could grow to be as majestic as a Hooded Merganser.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Problem</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">
+            <p class="slide-body-text flex-item"><img class="slide-body-image flex-item visible-tablet" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-dark.png">On the internet, multinational corporations can screen content, or even “adapt” their services to fit the local government’s requests. In both libraries and on the Web, we’re susceptible to data being censored or manipulated by intermediaries.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content flex">
+          <p class="slide-title">The Solution</p>
+          <div class="slide-content-inside">
+            <img class="slide-body-image flex-item hidden-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">
+            <div class="slide-body-text-container flex-item">
+              <p class="slide-body-text"><img class="slide-body-image flex-item visible-tablet" id="bulb-light-icon" src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/bulb-light.png">A peer-to-peer lending system backed up by a fully public ledger, allowing you to send and receive books freely to anybody in the world without worrying about censorship or interference. Want to add <i>Catcher in the Rye, Fahrenheit 451</i>, or your controversial essay on Audubon’s coloring techniques? No problem, even if the town surrounded you with pitchforks to ban them, these vital texts would be available to share neighbor to neighbor, impossible to delete.</p>
+              <p class="slide-body-text">That’s what our new internet will allow you to do too: exchange messages and files directly with their intended receiver, disperse ideas and information free from threats of censorship.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="slide">
+        <div class="slide-content">
+          <p class="slide-title">Takeaways</p>
+          <div class="slide-content-inside">
+            <div class="slide-body-list">
+              <p class="slide-body-list-item">Pushing all transactions through a central authority = <strong>OPPRESSIVE!</strong></p>
+              <p class="slide-body-list-item">Establishing a peer to peer exchange system based on an immutable public ledger = <strong>FREE!</strong></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>  <!-- end of slides -->
+
+  </div> <!-- end problem3 -->
+
+
+</div>
+
+
+<div class="back-top">
+  <img src="https://web.archive.org/web/20180714024109im_/http://www.piedpiper.com/app/themes/pied-piper/dist/images/circle-arrow-up.svg">
+  <p>Back<br>to top</p>
+</div>
+
+<script type="text/javascript" src="https://web.archive.org/web/20180714024109js_/http://www.piedpiper.com/app/themes/pied-piper/dist/scripts/main.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20180714024109js_/http://www.piedpiper.com/wp/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
+  </body>
+</html>
+<!--
+     FILE ARCHIVED ON 02:41:09 Jul 14, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:48:19 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.637
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.059
+  esindex: 0.009
+  cdx.remote: 14.755
+  LoadShardBlock: 273.678 (3)
+  PetaboxLoader3.datanode: 171.615 (4)
+  PetaboxLoader3.resolve: 438.965 (3)
+  load_resource: 425.284
+-->

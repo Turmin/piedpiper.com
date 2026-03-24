@@ -1,0 +1,759 @@
+.home {
+    background: black;
+}
+
+.home section {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 100vh;
+    min-height: 1000px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    z-index: 12;
+}
+
+
+.home section .title {
+    font-size: 70px;
+    font-family: brandon_grotesque;
+    font-weight: normal;
+    line-height: 95px;
+}
+
+.home section .title .trademark {
+    color: #D4D4D4;
+    font-size: 40px;
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+.home section .subtitle {
+    color: #D4D4D4;
+    font-size: 20px;
+    font-family: gilroy;
+    font-weight: normal;
+}
+
+.home section .subtitle .sentence-to-animate {
+    display: block;
+}
+
+.home section .container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 10% auto 0 auto;
+    text-align: center;
+}
+
+.home section .bold {
+    font-weight: bold;
+    color: #fff;
+}
+
+.home section .divider {
+    width: 40px;
+    height: 2px;
+    margin: 30px 0;
+    background-color: #009877;
+}
+
+.home section .list-title {
+    font-family: gilroy;
+    font-weight: bold;
+    font-size: 21px;
+    z-index: 1;
+}
+
+.home section .list-description {
+    font-family: gilroy;
+    font-size: 18px;
+    color:#D4D4D4;
+}
+
+.home section ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.home video {
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#internet-of-people {
+    background-size: cover;
+}
+
+#internet-of-people .title {
+    line-height: 70px;
+}
+
+#internet-of-people .container {
+    width: 54%;
+    height: 100%;
+    z-index: 11;
+}
+
+#delivering-the-internet {
+    height: 50vh;
+    min-height: 800px;
+
+}
+
+#delivering-the-internet {
+    background: url("/web/20191210230611im_/http://www.piedpiper.com/app/themes/joystick-v26/images/bgnd_world.jpg") no-repeat;
+    background-size: cover;
+}
+
+#delivering-the-internet .title {
+    text-align: center;
+    position: relative;
+    top: 30%;
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+#join-hundreds-of-developers {
+    background: #0E0E0E;
+    text-align: center;
+    margin: -1px 0;
+}
+
+#join-hundreds-of-developers a:link,
+#join-hundreds-of-developers a:hover,
+#join-hundreds-of-developers a:active,
+#join-hundreds-of-developers a:visited,
+#internet-of-people a:link,
+#internet-of-people a:hover,
+#internet-of-people a:active,
+#internet-of-people a:visited {
+    color: #FFF;
+    font-weight: bold;
+}
+
+#join-hundreds-of-developers .title {
+    position: relative;
+    margin-top: 85px;
+    font-size: 70px;
+}
+
+#join-hundreds-of-developers .images {
+    display: inline-block;
+    position: relative;
+    width: 1279px;
+    height: 418px;
+    margin-bottom: 60px;
+}
+
+#join-hundreds-of-developers .images img{
+    opacity: 0;
+}
+
+#join-hundreds-of-developers .images .macbook {
+    position: absolute;
+    left: 20px;
+    bottom: 0;
+    width: 504px;
+}
+
+#join-hundreds-of-developers .images .theebly {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 280px;
+}
+
+#join-hundreds-of-developers .images .mac {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 504px;
+}
+
+#join-hundreds-of-developers .images .bitrender {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 144px;
+}
+
+#join-hundreds-of-developers .images .humdrum {
+    position: absolute;
+    right: 130px;
+    bottom: 30px;
+    width: 316px;
+}
+#device_mac_2,
+#device_macbook_2,
+#device_bitrender_2,
+#device_theebly_2,
+#device_humdrum_2{
+    display: none;
+}
+
+#pipernet {
+    min-height: 720px;
+    height: 50vh;
+}
+
+#pipernet .title {
+    margin-top: 143px;
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 70px;
+}
+
+
+#pipernet ul {
+    width: 932px;
+    height: 280px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+#pipernet ul li {
+    position: relative;
+    float: left;
+    width: 274px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#pipernet li:nth-child(1),
+#pipernet li:nth-child(2) {
+    margin-right: 55px;
+}
+
+#the-web-you-never {
+    background: #0E0E0E;
+    height: 820px;
+    min-height: 0;
+}
+
+#the-web-you-never .title {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    /*line-height: 120px;*/
+}
+
+#the-web-you-never .title,
+#the-web-you-never .subtitle {
+    text-align: center;
+}
+
+#the-web-you-never .images-container {
+    position: absolute;
+    left: -70px;
+    right: 0;
+    width: 940px;
+    height: 155px;
+    margin: 0 auto;
+}
+
+#the-web-you-never .images-container img {
+    position: relative;
+    margin-top: 20px;
+}
+
+#the-web-you-never .images-container .img_identity {
+    margin-left: 100px;
+}
+
+#the-web-you-never .images-container .img_data {
+    margin-left: 85px;
+}
+
+
+#the-web-you-never .images-container .img_privacy {
+    margin-left: 120px;
+}
+
+#the-web-you-never .images-container .img_thunder {
+    margin-left: 80px;
+}
+
+
+#the-web-you-never .images-container .lines {
+    margin: 0 auto;
+    display: block;
+}
+
+
+#why-we-need {
+    background-size: cover;
+    height: 850px;
+    min-height: 0;
+}
+
+#why-we-need .title {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#why-we-need ul {
+    position: absolute;
+    width: calc((350px * 3) + 52px);
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+#why-we-need li {
+    position: relative;
+    float: left;
+    width: 350px;
+    height: auto;
+    padding: 21px;
+    background-color: rgba(33, 42, 40, 0.5);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+#why-we-need li:nth-child(1),
+#why-we-need li:nth-child(2) {
+    margin-right: 26px;
+}
+
+@media all and (max-width: 1400px) {
+    #join-hundreds-of-developers .images {
+        transform: scale(0.7);
+        width: 1340px;
+        margin-bottom: 0;
+    }
+}
+
+@media all and (max-width: 1280px) {
+    .home section .title {
+        font-size: 70px;
+    }
+
+    .home section .title .trademark {
+        font-size: 50px;
+    }
+
+    .home section .subtitle {
+        font-size: 18px;
+    }
+
+    .home section .list-title {
+        font-size: 18px;
+    }
+
+    .home section .list-description {
+        font-size: 16px;
+    }
+
+    #internet-of-people .container {
+        width: 890px;
+    }
+
+    #internet-of-people .container .subtitle:first-of-type {
+        width: 558px;
+        margin: 0 auto;
+    }
+
+    #join-hundreds-of-developers {
+        height: 90vh;
+        min-height: 880px;
+    }
+
+    #join-hundreds-of-developers .title {
+        font-size: 60px;
+    }
+
+
+    #join-hundreds-of-developers .images {
+        transform: scale(0.68) translateX(-72.3%);
+        width: 1300px;
+        left: 50%;
+        right: auto;
+        margin: 0;
+    }
+
+    #the-web-you-never {
+        height: 720px;
+    }
+
+    /*#the-web-you-never .title {*/
+    /*    line-height: 90px;*/
+    /*}*/
+
+    #the-web-you-never .subtitle br {
+        display: none;
+    }
+
+    #pipernet .list-title {
+        font-size: 16px;
+    }
+
+    #the-web-you-never .subtitle {
+        width: 630px;
+        margin: 0 auto;
+    }
+
+    #why-we-need {
+        height: 720px;
+    }
+
+    #why-we-need ul {
+        width: calc((310px * 3) + 40px);
+    }
+
+    #why-we-need li {
+        width: 310px;
+        /*height: 380px;*/
+        padding: 18px;
+    }
+
+    #why-we-need li:nth-child(1), #why-we-need li:nth-child(2) {
+        margin-right: 20px;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    .home section {
+        min-height: 100vh;
+    }
+
+    #internet-of-people {
+        min-height: 600px;
+    }
+
+    .home section .title,
+    #internet-of-people .title,
+    #pipernet .title {
+        font-size: 52px;
+        /*line-height: 65px;*/
+    }
+
+    .home section .title .trademark {
+        font-size: 32px;
+    }
+
+    .home section .subtitle {
+        font-size: 16px;
+    }
+
+    .home section .container {
+        margin: 20% auto 0 auto;
+    }
+
+    .home section .divider {
+        margin: 20px 0;
+    }
+
+    #internet-of-people .container {
+        width: 100%;
+    }
+
+    #join-hundreds-of-developers {
+        height: 70vh;
+        min-height: 700px;
+    }
+
+    #join-hundreds-of-developers .title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    #join-hundreds-of-developers .images {
+        margin-top: -80px;
+        margin-bottom: -80px;
+        -webkit-transform: scale(0.45) translateX(-110%);
+        -moz-transform: scale(0.45) translateX(-110%);
+        -ms-transform: scale(0.45) translateX(-110%);
+        -o-transform: scale(0.45) translateX(-110%);
+        transform: scale(0.45) translateX(-110%);
+    }
+
+
+    #internet-of-people .subtitle:last-child {
+        padding: 0 10%;
+    }
+
+    #pipernet ul {
+        padding: 0 10px;
+        width: 660px;
+    }
+
+    #pipernet ul li {
+        width: 210px;
+    }
+
+    #pipernet li:nth-child(1), #pipernet li:nth-child(2) {
+        margin-right: 15px;
+    }
+
+    #the-web-you-never {
+        min-height: 0;
+        height: 510px;
+    }
+
+    /*#the-web-you-never .title {*/
+    /*    line-height: 68px;*/
+    /*}*/
+
+    #the-web-you-never .images-container {
+        left: 50%;
+        right: auto;
+        -webkit-transform: scale(0.7) translateX(-76%);
+        -moz-transform: scale(0.7) translateX(-76%);
+        -ms-transform: scale(0.7) translateX(-76%);
+        -o-transform: scale(0.7) translateX(-76%);
+        transform: scale(0.7) translateX(-76%);
+    }
+
+    #why-we-need {
+        height: 1340px;
+    }
+
+    #why-we-need ul {
+        width: 100%;
+    }
+
+    #why-we-need li {
+        /*height: 300px;*/
+        margin-right: calc(50% - 155px) !important;
+        margin-left: calc(50% - 155px) !important;
+        margin-bottom: 30px;
+    }
+
+}
+
+@media all and (max-width: 660px) {
+    .home section .title {
+        line-height: 45px;
+    }
+
+    .home section .subtitle {
+        display: inline-block;
+        font-size: 14px;
+    }
+
+    .home section .title, #pipernet .title {
+        font-size: 36px;
+    }
+
+    .home section .list-title,
+    .home section .list-description {
+
+        font-size: 14px;
+    }
+
+    .home section .divider {
+        margin: 15px 0;
+    }
+
+    #internet-of-people .container {
+        position: absolute;
+        height: 330px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+    /*#internet-of-people .title {*/
+    /*    line-height: 45px;*/
+    /*}*/
+
+    #delivering-the-internet .title {
+        font-size: 40px;
+        width: 290px;
+    }
+
+    #internet-of-people .container .subtitle{
+        padding: 0 20%;
+        width: auto;
+    }
+
+    #internet-of-people .container .subtitle:first-of-type {
+        width: 60%;
+        pading: 0 20%;
+    }
+
+    #join-hundreds-of-developers  {
+        height: 920px;
+        min-height: 0;
+    }
+
+    #join-hundreds-of-developers .title {
+        width: 270px;
+        font-size: 35px;
+        margin: 85px auto 20px auto;
+    }
+
+    #join-hundreds-of-developers .subtitle {
+        max-width: 360px;
+        width: calc(100% - 40px);
+        padding: 0 20px;
+    }
+
+    #join-hundreds-of-developers .subtitle br {
+        display: none;
+    }
+
+    #join-hundreds-of-developers .images {
+        transform-origin: top;
+        margin-top: 50px;
+        margin-bottom: -180px;
+    }
+    #join-hundreds-of-developers .images img {
+        top: 0;
+        margin: auto 0;
+    }
+
+    #join-hundreds-of-developers .images .macbook,
+    #join-hundreds-of-developers .images .theebly,
+    #join-hundreds-of-developers .images .mac,
+    #join-hundreds-of-developers .images .bitrender,
+    #join-hundreds-of-developers .images .humdrum {
+        left: auto;
+        right: 0px;
+        bottom: 0;
+    }
+    #device_mac_2,
+    #device_macbook_2,
+    #device_bitrender_2,
+    #device_theebly_2,
+    #device_humdrum_2{
+        display: block;
+    }
+
+    #pipernet {
+        height: 860px;
+    }
+
+    #pipernet .title {
+        width: 210px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+    }
+
+    #pipernet ul {
+        width: 100%;
+        padding: 0;
+    }
+
+    #pipernet ul li {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 54px;
+    }
+
+    #pipernet ul li .divider {
+        margin: 15px auto;
+    }
+
+    #the-web-you-never {
+        height: 630px;
+    }
+
+    #the-web-you-never .title {
+        width: 190px;
+        margin-top: 80px;
+        /*line-height: 42px;*/
+    }
+
+    #the-web-you-never .subtitle {
+        width: 80%;
+        padding: 0 10%;
+    }
+    #the-web-you-never .images-container {
+        position: relative;
+        width:250px;
+        left: 0px;
+        margin: 50px auto 0;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+    }
+
+    #the-web-you-never .images-container .lines{
+        display: none;
+    }
+
+    #the-web-you-never .images-container img {
+        height: 40px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    #the-web-you-never .images-container .img_identity {
+        float: left;
+        margin: 0 73px 0 0;
+        /*margin-left: calc(50% - 52px);*/
+        /*margin-right: calc(50% - 52px);*/
+    }
+
+    #the-web-you-never .images-container .img_data {
+        margin: 0;
+        float: left;
+        /*margin-left: calc(50% - 36px);*/
+        /*margin-right: calc(50% - 36px);*/
+    }
+
+    #the-web-you-never .images-container .img_privacy  {
+        float: left;
+        margin: 30px 83px 0 0;
+        /*margin-left: calc(50% - 46px);*/
+        /*margin-right: calc(50% - 46px);*/
+    }
+
+    #the-web-you-never .images-container .img_thunder  {
+        margin: 30px 0 0;
+        float: left;
+        /*margin-left: calc(50% - 37px);*/
+        /*margin-right: calc(50% - 37px);*/
+    }
+
+    #pipernet .list-description {
+        padding: 0 40px;
+    }
+
+    #why-we-need {
+        height: 1220px;
+    }
+
+    #why-we-need .title {
+        width: 190px;
+        /*line-height: 41px;*/
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+/*
+     FILE ARCHIVED ON 23:06:11 Dec 10, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:04:48 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.721
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.06
+  esindex: 0.01
+  cdx.remote: 36.805
+  LoadShardBlock: 117.973 (3)
+  PetaboxLoader3.datanode: 134.145 (4)
+  load_resource: 121.627
+  PetaboxLoader3.resolve: 100.44
+*/

@@ -1,0 +1,213 @@
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+/* START OF HEADER  */
+.main-header {
+    position: fixed;
+    background: #0E0E0E;
+    top: 0;
+    width: 100vw;
+    height: 80px;
+    z-index: 21;
+    font-family: gilroy;
+    font-weight: normal;
+    transition: height 1s ease-in-out;
+}
+
+.main-header.resized {
+    height: 70px;
+}
+
+.main-logo {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto 0;
+}
+
+.main-logo a {
+    position: relative;
+    height: 100%;
+    float: left;
+    margin: 0;
+}
+
+.main-logo a img {
+    position: absolute;
+    top: 0;
+    height: 75%;
+    bottom: 0;
+    margin: auto;
+}
+
+.main-logo a .logo_mobile {
+    width: auto;
+    height: 65%;
+    display: none;
+}
+
+.navigation-container {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 10px;
+    z-index: 1;
+}
+
+.navigation-container .main-logo {
+    display: block;
+    float: left;
+    margin: 10px;
+    max-width: 200px;
+}
+
+.navigation-container .main-navigation {
+    /*bottom: 0;*/
+    height: 100%;
+    margin: auto 0;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+
+/*wordpress generated menu elements*/
+.navigation-container .main-navigation div {
+    height: 100%;
+}
+
+.navigation-container .main-navigation ul {
+    position: relative;
+    height: 100%;
+    margin: 0 auto;
+}
+
+/*wordpress generated elements*/
+
+
+.navigation-container .main-navigation li {
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    font-size: 18px;
+}
+
+.navigation-container .main-navigation li a {
+    display: block;
+    color: #fff;
+    margin: 0 30px;
+    padding: 8px 0 5px 0;
+    position: relative;
+    text-decoration: none;
+    text-transform: lowercase;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    transition: all 0.5s linear;
+}
+
+.navigation-container .main-navigation li a::before {
+    background: #009877;
+    content: '';
+    display: block;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: width 0.4s ease-in;
+    width: 0;
+}
+
+.desktop .navigation-container .main-navigation li a:hover::before,
+.navigation-container .main-navigation li a.active::before,
+.main-navigation li.current_page_item a::before {
+    width: 100%;
+}
+
+.main-header.resized .navigation-container .main-navigation li {
+    font-size: 15px;
+}
+
+
+@media all and (max-width: 1280px) {
+    .navigation-container {
+        width: 100vw;
+        margin: 0;
+    }
+
+    .main-logo a img {
+        width: 150px;
+    }
+}
+
+@media all and (max-width: 800px) {
+
+    .navigation-container .main-navigation li a {
+        margin: 0 10px;
+    }
+}
+
+@media all and (max-width: 600px) {
+
+    .main-header {
+        height: 60px;
+    }
+
+    .main-header.resized {
+        height: 40px;
+    }
+
+    .main-header.resized .logo_mobile {
+        height: 100%;
+    }
+
+    .main-logo a .logo_mobile {
+        display: block;
+    }
+
+    .main-logo a .logo_image {
+        display: none;
+    }
+
+    .navigation-container .main-navigation li,
+    .main-header.resized .navigation-container .main-navigation li {
+        font-size: 12px;
+    }
+
+    .main-header.resized .navigation-container .main-navigation li a {
+        padding: 3px 0 5px 0;
+    }
+}
+/*
+     FILE ARCHIVED ON 08:53:19 Nov 21, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:06:27 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.836
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.065
+  esindex: 0.011
+  cdx.remote: 9.064
+  LoadShardBlock: 47.741 (3)
+  PetaboxLoader3.datanode: 63.175 (4)
+  load_resource: 103.435
+  PetaboxLoader3.resolve: 77.317
+*/

@@ -1,0 +1,160 @@
+
+footer {
+    position: relative;
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    height: 230px;
+    color: #101010;
+    overflow: hidden;
+    z-index: 1;
+}
+
+footer .social-links-wrapper {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 40px;
+    margin: 32px 0;
+}
+
+footer .message,
+footer .copyright {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-family: Helvetica, Arial, serif;
+    color: #101010;
+    float: left;
+}
+
+footer .message {
+    width: 700px;
+    margin-left: calc(50% - 350px);
+    margin-right: calc(50% - 350px);
+    font-size: 14px;
+}
+
+footer .copyright {
+    width: 460px;
+    margin-left: calc(50% - 230px);
+    margin-right: calc(50% - 230px);
+    font-size: 11px;
+    color: #101010;
+}
+
+footer .copyright a.active,
+footer .copyright a:hover,
+footer .copyright a {
+    color: #101010;
+    width: 100%;
+    text-decoration: none;
+}
+
+.social-links {
+    position: relative;
+    margin: 0 auto;
+    width: calc(70px * 3)
+}
+
+.social-links a {
+    position: relative;
+    float: left;
+    width: 42px;
+    height: 42px;
+    margin: 0 13px;
+}
+
+.social-links a:hover {
+    opacity: 0.7;
+}
+
+.social-links img {
+    position: absolute;
+    width: 42px;
+}
+
+@media all and (max-width: 1280px) {
+
+    footer .social-links-wrapper {
+        margin: 12px 0;
+    }
+
+    .social-links {
+        width: calc(52px * 3);
+    }
+
+    .social-links a {
+        position: relative;
+        float: left;
+        width: 32px;
+        height: 32px;
+        margin: 0 10px;
+    }
+
+    .social-links a img {
+        width: 32px;
+    }
+}
+
+@media all and (max-width: 1000px) {
+
+    footer {
+        height: 240px;
+    }
+
+    footer .message {
+        font-size: 10px;
+    }
+
+    footer .copyright {
+        font-size: 8px;
+        margin-top: 10px;
+        margin-bottom: 12px;
+    }
+
+    footer br {
+        display: none;
+    }
+
+    footer .message {
+        width: 500px;
+        margin-right: calc(50% - 250px);
+        margin-left: calc(50% - 250px);
+    }
+}
+
+@media all and (max-width: 600px) {
+    footer {
+        height: 150px;
+    }
+
+    footer .message,
+    footer .copyright {
+        width: 90%;
+        margin-right: calc(50% - 45%);
+        margin-left: calc(50% - 45%);
+    }
+}
+
+
+/*
+     FILE ARCHIVED ON 08:53:19 Nov 21, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:06:28 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.636
+  exclusion.robots: 0.061
+  exclusion.robots.policy: 0.051
+  esindex: 0.008
+  cdx.remote: 22.573
+  LoadShardBlock: 163.801 (3)
+  PetaboxLoader3.datanode: 196.816 (4)
+  load_resource: 149.412
+  PetaboxLoader3.resolve: 114.268
+*/
